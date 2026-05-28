@@ -1,0 +1,257 @@
+================================================================================
+PROCESSING PROGRESS LOG
+================================================================================
+
+
+[1/10] Processing OID182_PID1 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 83.6 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 119.4 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 139.8 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 155.2 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 167.1 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 177.6 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 186.2 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 193.7 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 199.5 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 204.8 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36035 valid - 209.3 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39311 valid - 212.5 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42587 valid - 215.4 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45863 valid - 216.5 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49139 valid - 217.0 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52415 valid - 217.3 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55691 valid - 217.3 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58967 valid - 217.0 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62243 valid - 217.0 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65519 valid - 216.8 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65535 valid - 216.6 pts/sec
+  OID182_PID1: 65535/65536 valid results in 302.60 seconds
+
+
+[2/10] Processing OID182_PID2 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 204.4 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 208.6 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 209.7 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 215.2 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 220.9 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 226.4 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 231.5 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 236.7 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 239.2 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 242.6 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36035 valid - 245.6 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39311 valid - 246.9 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42587 valid - 248.2 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45863 valid - 247.3 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49139 valid - 245.8 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52415 valid - 244.2 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55691 valid - 242.5 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58967 valid - 240.5 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62243 valid - 238.8 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65519 valid - 237.5 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65535 valid - 237.2 pts/sec
+  OID182_PID2: 65535/65536 valid results in 276.29 seconds
+
+
+[3/10] Processing OID182_PID3 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 225.3 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 229.1 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 230.5 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 232.9 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 236.6 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 242.3 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 247.1 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 251.2 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 255.3 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 258.3 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 260.9 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 262.7 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 263.8 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 264.8 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 264.9 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 263.3 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 261.5 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 259.8 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 258.1 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 256.2 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 255.9 pts/sec
+  OID182_PID3: 65536/65536 valid results in 256.12 seconds
+
+
+[4/10] Processing OID182_PID4 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 220.3 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 224.7 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 226.5 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 229.0 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 231.4 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 237.3 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 241.9 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 246.1 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 249.5 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 252.4 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 254.7 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 257.0 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 258.4 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 260.0 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 260.4 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 259.5 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 258.0 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 257.0 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 255.3 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 253.7 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 253.4 pts/sec
+  OID182_PID4: 65536/65536 valid results in 258.63 seconds
+
+
+[5/10] Processing OID182_PID5 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 225.8 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 227.3 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 229.5 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 231.5 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 234.5 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 239.5 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 243.6 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 247.0 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 249.8 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 252.6 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 254.8 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 256.6 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 257.7 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 258.3 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 258.3 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 257.1 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 256.0 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 255.0 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 253.4 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 251.6 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 251.3 pts/sec
+  OID182_PID5: 65536/65536 valid results in 260.82 seconds
+
+
+[6/10] Processing OID182_PID6 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 229.7 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 230.4 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 232.2 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 233.7 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 237.3 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 243.0 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 246.8 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 250.5 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 253.6 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 256.7 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 259.0 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 260.5 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 261.7 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 262.9 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 262.4 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 260.8 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 259.3 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 257.9 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 256.0 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 254.2 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 253.9 pts/sec
+  OID182_PID6: 65536/65536 valid results in 258.11 seconds
+
+
+[7/10] Processing OID182_PID7 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 227.6 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 230.0 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 230.6 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 231.5 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 234.4 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 239.3 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 243.4 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 246.7 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 249.6 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 251.9 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 254.2 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 255.8 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 257.1 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 258.0 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 257.8 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 256.5 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 255.4 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 254.1 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 252.7 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 251.3 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 251.0 pts/sec
+  OID182_PID7: 65536/65536 valid results in 261.13 seconds
+
+
+[8/10] Processing OID182_PID8 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 234.2 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 234.5 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 237.1 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 239.0 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 242.4 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 247.4 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 251.8 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 255.4 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 259.0 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 262.4 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 264.8 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 266.9 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 268.6 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 269.8 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 270.2 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 268.8 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 267.1 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 265.4 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 263.4 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 261.5 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 261.2 pts/sec
+  OID182_PID8: 65536/65536 valid results in 250.95 seconds
+
+
+[9/10] Processing OID182_PID9 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 237.4 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 238.9 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 241.7 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 244.1 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 246.6 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 251.9 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 257.4 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 262.1 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 266.2 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 270.0 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 273.2 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 275.3 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 276.7 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 277.7 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 277.4 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 275.7 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 274.1 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 272.2 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 270.3 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 268.1 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 267.7 pts/sec
+  OID182_PID9: 65536/65536 valid results in 244.78 seconds
+
+
+[10/10] Processing OID182_PID10 (65536 grid points)...
+  Progress: 3276/65536 points (5.0%) - 3276 valid - 231.0 pts/sec
+  Progress: 6552/65536 points (10.0%) - 6552 valid - 229.9 pts/sec
+  Progress: 9828/65536 points (15.0%) - 9828 valid - 232.6 pts/sec
+  Progress: 13104/65536 points (20.0%) - 13104 valid - 235.0 pts/sec
+  Progress: 16380/65536 points (25.0%) - 16380 valid - 238.7 pts/sec
+  Progress: 19656/65536 points (30.0%) - 19656 valid - 244.3 pts/sec
+  Progress: 22932/65536 points (35.0%) - 22932 valid - 248.9 pts/sec
+  Progress: 26208/65536 points (40.0%) - 26208 valid - 253.5 pts/sec
+  Progress: 29484/65536 points (45.0%) - 29484 valid - 257.1 pts/sec
+  Progress: 32760/65536 points (50.0%) - 32760 valid - 260.2 pts/sec
+  Progress: 36036/65536 points (55.0%) - 36036 valid - 262.9 pts/sec
+  Progress: 39312/65536 points (60.0%) - 39312 valid - 265.5 pts/sec
+  Progress: 42588/65536 points (65.0%) - 42588 valid - 267.0 pts/sec
+  Progress: 45864/65536 points (70.0%) - 45864 valid - 268.0 pts/sec
+  Progress: 49140/65536 points (75.0%) - 49140 valid - 268.2 pts/sec
+  Progress: 52416/65536 points (80.0%) - 52416 valid - 266.8 pts/sec
+  Progress: 55692/65536 points (85.0%) - 55692 valid - 265.3 pts/sec
+  Progress: 58968/65536 points (90.0%) - 58968 valid - 263.5 pts/sec
+  Progress: 62244/65536 points (95.0%) - 62244 valid - 261.6 pts/sec
+  Progress: 65520/65536 points (100.0%) - 65520 valid - 259.8 pts/sec
+  Progress: 65536/65536 points (100.0%) - 65536 valid - 259.4 pts/sec
+  OID182_PID10: 65536/65536 valid results in 252.62 seconds
+
+================================================================================
+Processing complete!
+================================================================================

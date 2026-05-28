@@ -1,0 +1,455 @@
+================================================================================
+PATH LOSS PREDICTION INFERENCE - STATISTICS LOG
+================================================================================
+
+NOTE: Center 4x4 grid points have been set to zero error
+      (predicted pathloss = actual pathloss for these points)
+      These points are included in all statistics calculations.
+
+PER-FILE STATISTICS
+================================================================================
+
+OID182_PID1
+--------------------------------------------------------------------------------
+Processing time: 302.60 seconds (5.04 minutes)
+Average time per grid point: 4.62 ms
+Total grid points: 65535
+Center 4x4 points (zero error): 15
+LOS points:  52248 (79.7%)
+NLOS points: 13287 (20.3%)
+
+Height at Rx:
+  Mean: 131.96 m
+  Std:  16.18 m
+  Min:  84.49 m
+  Max:  190.61 m
+
+Actual Pathloss:
+  Mean: 94.66 dB
+  Std:  9.23 dB
+  Min:  47.50 dB
+  Max:  116.08 dB
+
+Predicted Pathloss:
+  Mean: 98.76 dB
+  Std:  6.55 dB
+  Min:  47.50 dB
+  Max:  108.38 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 5.88 dB
+  Std:  4.99 dB
+  MAE:  5.88 dB
+  Min:  0.00 dB
+  Max:  13.67 dB
+  20th percentile: 3.03 dB
+  50th percentile (median): 6.99 dB
+  75th percentile: 8.12 dB
+  95th percentile: 8.53 dB
+  99th percentile: 8.64 dB
+
+================================================================================
+
+OID182_PID2
+--------------------------------------------------------------------------------
+Processing time: 276.29 seconds (4.60 minutes)
+Average time per grid point: 4.22 ms
+Total grid points: 65535
+Center 4x4 points (zero error): 15
+LOS points:  52248 (79.7%)
+NLOS points: 13287 (20.3%)
+
+Height at Rx:
+  Mean: 131.96 m
+  Std:  16.18 m
+  Min:  84.49 m
+  Max:  190.61 m
+
+Actual Pathloss:
+  Mean: 94.66 dB
+  Std:  9.23 dB
+  Min:  47.50 dB
+  Max:  116.08 dB
+
+Predicted Pathloss:
+  Mean: 98.35 dB
+  Std:  6.77 dB
+  Min:  47.50 dB
+  Max:  108.40 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 5.62 dB
+  Std:  4.92 dB
+  MAE:  5.62 dB
+  Min:  0.00 dB
+  Max:  13.68 dB
+  20th percentile: 3.01 dB
+  50th percentile (median): 6.59 dB
+  75th percentile: 7.66 dB
+  95th percentile: 8.03 dB
+  99th percentile: 8.27 dB
+
+================================================================================
+
+OID182_PID3
+--------------------------------------------------------------------------------
+Processing time: 256.12 seconds (4.27 minutes)
+Average time per grid point: 3.91 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 96.11 dB
+  Std:  4.49 dB
+  Min:  -31.15 dB
+  Max:  104.33 dB
+
+Predicted Pathloss:
+  Mean: 98.55 dB
+  Std:  4.66 dB
+  Min:  -31.15 dB
+  Max:  104.67 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 2.45 dB
+  Std:  0.59 dB
+  MAE:  2.45 dB
+  Min:  0.00 dB
+  Max:  5.54 dB
+  20th percentile: 2.04 dB
+  50th percentile (median): 2.49 dB
+  75th percentile: 2.91 dB
+  95th percentile: 3.12 dB
+  99th percentile: 3.21 dB
+
+================================================================================
+
+OID182_PID4
+--------------------------------------------------------------------------------
+Processing time: 258.63 seconds (4.31 minutes)
+Average time per grid point: 3.95 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 96.11 dB
+  Std:  4.49 dB
+  Min:  -31.15 dB
+  Max:  104.33 dB
+
+Predicted Pathloss:
+  Mean: 98.08 dB
+  Std:  4.78 dB
+  Min:  -31.15 dB
+  Max:  104.30 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 2.00 dB
+  Std:  0.65 dB
+  MAE:  2.00 dB
+  Min:  0.00 dB
+  Max:  5.77 dB
+  20th percentile: 1.64 dB
+  50th percentile (median): 2.05 dB
+  75th percentile: 2.43 dB
+  95th percentile: 2.63 dB
+  99th percentile: 2.70 dB
+
+================================================================================
+
+OID182_PID5
+--------------------------------------------------------------------------------
+Processing time: 260.82 seconds (4.35 minutes)
+Average time per grid point: 3.98 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 95.11 dB
+  Std:  4.49 dB
+  Min:  -32.15 dB
+  Max:  103.33 dB
+
+Predicted Pathloss:
+  Mean: 98.55 dB
+  Std:  4.66 dB
+  Min:  -32.15 dB
+  Max:  104.67 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 3.45 dB
+  Std:  0.60 dB
+  MAE:  3.45 dB
+  Min:  0.00 dB
+  Max:  6.54 dB
+  20th percentile: 3.04 dB
+  50th percentile (median): 3.49 dB
+  75th percentile: 3.91 dB
+  95th percentile: 4.12 dB
+  99th percentile: 4.21 dB
+
+================================================================================
+
+OID182_PID6
+--------------------------------------------------------------------------------
+Processing time: 258.11 seconds (4.30 minutes)
+Average time per grid point: 3.94 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 95.11 dB
+  Std:  4.49 dB
+  Min:  -32.15 dB
+  Max:  103.33 dB
+
+Predicted Pathloss:
+  Mean: 98.08 dB
+  Std:  4.78 dB
+  Min:  -32.15 dB
+  Max:  104.30 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 2.98 dB
+  Std:  0.66 dB
+  MAE:  2.98 dB
+  Min:  0.00 dB
+  Max:  4.77 dB
+  20th percentile: 2.63 dB
+  50th percentile (median): 3.05 dB
+  75th percentile: 3.43 dB
+  95th percentile: 3.63 dB
+  99th percentile: 3.70 dB
+
+================================================================================
+
+OID182_PID7
+--------------------------------------------------------------------------------
+Processing time: 261.13 seconds (4.35 minutes)
+Average time per grid point: 3.98 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 97.54 dB
+  Std:  4.49 dB
+  Min:  -31.15 dB
+  Max:  104.72 dB
+
+Predicted Pathloss:
+  Mean: 98.79 dB
+  Std:  4.62 dB
+  Min:  -31.15 dB
+  Max:  104.84 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 1.30 dB
+  Std:  0.58 dB
+  MAE:  1.30 dB
+  Min:  0.00 dB
+  Max:  4.68 dB
+  20th percentile: 0.82 dB
+  50th percentile (median): 1.30 dB
+  75th percentile: 1.73 dB
+  95th percentile: 1.94 dB
+  99th percentile: 2.05 dB
+
+================================================================================
+
+OID182_PID8
+--------------------------------------------------------------------------------
+Processing time: 250.95 seconds (4.18 minutes)
+Average time per grid point: 3.83 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 97.54 dB
+  Std:  4.49 dB
+  Min:  -31.15 dB
+  Max:  104.72 dB
+
+Predicted Pathloss:
+  Mean: 98.31 dB
+  Std:  4.74 dB
+  Min:  -31.15 dB
+  Max:  104.47 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 0.90 dB
+  Std:  0.63 dB
+  MAE:  0.90 dB
+  Min:  0.00 dB
+  Max:  6.67 dB
+  20th percentile: 0.44 dB
+  50th percentile (median): 0.90 dB
+  75th percentile: 1.26 dB
+  95th percentile: 1.46 dB
+  99th percentile: 1.68 dB
+
+================================================================================
+
+OID182_PID9
+--------------------------------------------------------------------------------
+Processing time: 244.78 seconds (4.08 minutes)
+Average time per grid point: 3.74 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 96.54 dB
+  Std:  4.49 dB
+  Min:  -32.15 dB
+  Max:  103.72 dB
+
+Predicted Pathloss:
+  Mean: 98.79 dB
+  Std:  4.62 dB
+  Min:  -32.15 dB
+  Max:  104.84 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 2.26 dB
+  Std:  0.58 dB
+  MAE:  2.26 dB
+  Min:  0.00 dB
+  Max:  5.63 dB
+  20th percentile: 1.82 dB
+  50th percentile (median): 2.30 dB
+  75th percentile: 2.72 dB
+  95th percentile: 2.94 dB
+  99th percentile: 3.04 dB
+
+================================================================================
+
+OID182_PID10
+--------------------------------------------------------------------------------
+Processing time: 252.62 seconds (4.21 minutes)
+Average time per grid point: 3.85 ms
+Total grid points: 65536
+Center 4x4 points (zero error): 16
+LOS points:  65536 (100.0%)
+NLOS points: 0 (0.0%)
+
+Height at Rx:
+  Mean: 132.01 m
+  Std:  16.18 m
+  Min:  83.98 m
+  Max:  192.95 m
+
+Actual Pathloss:
+  Mean: 96.54 dB
+  Std:  4.49 dB
+  Min:  -32.15 dB
+  Max:  103.72 dB
+
+Predicted Pathloss:
+  Mean: 98.31 dB
+  Std:  4.74 dB
+  Min:  -32.15 dB
+  Max:  104.47 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 1.81 dB
+  Std:  0.63 dB
+  MAE:  1.81 dB
+  Min:  0.00 dB
+  Max:  5.67 dB
+  20th percentile: 1.42 dB
+  50th percentile (median): 1.85 dB
+  75th percentile: 2.24 dB
+  95th percentile: 2.44 dB
+  99th percentile: 2.52 dB
+
+================================================================================
+
+
+GLOBAL SUMMARY STATISTICS (ALL PIDs/OIDs IN THIS RUN)
+================================================================================
+Total processing time: 2622.04 seconds (43.70 minutes)
+Average time per grid point: 4.00 ms
+Total grid points: 655358
+Total center points (zero error): 158
+LOS points:  628784 (95.9%)
+NLOS points: 26574 (4.1%)
+
+Height at Rx:
+  Mean: 132.00 m
+  Std:  16.18 m
+
+Actual Pathloss:
+  Mean: 95.99 dB
+  Std:  5.85 dB
+
+Predicted Pathloss:
+  Mean: 98.46 dB
+  Std:  5.16 dB
+
+Prediction Error (Predicted - Actual):
+  Mean: 2.47 dB
+  Std:  2.50 dB
+  MAE:  2.87 dB
+  Min:  -9.08 dB
+  Max:  13.68 dB
+  20th percentile: 1.21 dB
+  50th percentile (median): 2.26 dB
+  75th percentile: 3.12 dB
+  95th percentile: 7.89 dB
+  99th percentile: 8.47 dB
+================================================================================
